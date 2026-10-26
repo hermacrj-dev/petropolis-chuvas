@@ -1,0 +1,61 @@
+﻿regiao,mes,chuva_media_mm,dias_acima_50mm,estacoes
+"Corrêas, Nogueira e Araras",1,229.28,0.69,3
+"Corrêas, Nogueira e Araras",2,178.53,0.28,3
+"Corrêas, Nogueira e Araras",3,149.49,0.3,3
+"Corrêas, Nogueira e Araras",4,79.11,0.1,3
+"Corrêas, Nogueira e Araras",5,33.47,0.0,3
+"Corrêas, Nogueira e Araras",6,32.33,0.0,3
+"Corrêas, Nogueira e Araras",7,19.95,0.0,3
+"Corrêas, Nogueira e Araras",8,32.52,0.0,3
+"Corrêas, Nogueira e Araras",9,54.51,0.0,3
+"Corrêas, Nogueira e Araras",10,69.73,0.08,3
+"Corrêas, Nogueira e Araras",11,155.92,0.51,3
+"Corrêas, Nogueira e Araras",12,172.77,0.18,3
+Estação oficial (INMET),1,276.82,0.75,1
+Estação oficial (INMET),2,214.96,0.67,1
+Estação oficial (INMET),3,244.7,1.0,1
+Estação oficial (INMET),4,173.3,0.38,1
+Estação oficial (INMET),5,68.22,0.0,1
+Estação oficial (INMET),6,57.9,0.0,1
+Estação oficial (INMET),7,38.31,0.0,1
+Estação oficial (INMET),8,79.24,0.1,1
+Estação oficial (INMET),9,86.97,0.14,1
+Estação oficial (INMET),10,159.66,0.29,1
+Estação oficial (INMET),11,221.29,0.71,1
+Estação oficial (INMET),12,235.13,0.56,1
+Itaipava e vales,1,224.33,0.66,7
+Itaipava e vales,2,161.44,0.25,7
+Itaipava e vales,3,144.77,0.47,7
+Itaipava e vales,4,69.47,0.04,7
+Itaipava e vales,5,28.93,0.0,7
+Itaipava e vales,6,26.56,0.0,7
+Itaipava e vales,7,25.58,0.0,7
+Itaipava e vales,8,33.3,0.0,7
+Itaipava e vales,9,31.22,0.0,7
+Itaipava e vales,10,77.88,0.0,7
+Itaipava e vales,11,165.36,0.19,7
+Itaipava e vales,12,157.09,0.31,6
+Pedro do Rio e Posse,1,174.5,0.22,2
+Pedro do Rio e Posse,2,140.58,0.21,2
+Pedro do Rio e Posse,3,136.17,0.06,2
+Pedro do Rio e Posse,4,45.84,0.0,2
+Pedro do Rio e Posse,5,35.44,0.0,2
+Pedro do Rio e Posse,6,46.75,0.0,2
+Pedro do Rio e Posse,7,22.99,0.0,2
+Pedro do Rio e Posse,8,26.52,0.0,2
+Pedro do Rio e Posse,9,67.1,0.0,2
+Pedro do Rio e Posse,10,56.4,0.0,2
+Pedro do Rio e Posse,11,148.9,0.17,2
+Pedro do Rio e Posse,12,134.11,0.15,2
+Área central (1º distrito),1,262.98,1.14,6
+Área central (1º distrito),2,200.24,0.84,6
+Área central (1º distrito),3,208.89,0.82,6
+Área central (1º distrito),4,160.85,0.64,6
+Área central (1º distrito),5,69.77,0.06,6
+Área central (1º distrito),6,131.42,0.62,6
+Área central (1º distrito),7,76.53,0.14,6
+Área central (1º distrito),8,115.44,0.39,6
+Área central (1º distrito),9,109.15,0.08,6
+Área central (1º distrito),10,182.63,0.51,6
+Área central (1º distrito),11,292.18,1.44,6
+Área central (1º distrito),12,247.25,0.82,6

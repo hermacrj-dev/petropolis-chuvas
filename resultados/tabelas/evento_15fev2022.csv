@@ -1,0 +1,20 @@
+﻿estacao,regiao,fonte,horas_com_registro,valido,chuva_dia_mm,max_3h_mm,defesa_civil_mm
+Rua Araruama/Quitandinha,Área central (1º distrito),Cemaden,21,True,134.1,133.3,133.1
+Rua Amazonas/Quitandinha,Área central (1º distrito),Cemaden,20,True,111.2,108.6,111.0
+CIEP Brizolão137,"Corrêas, Nogueira e Araras",Cemaden,24,True,46.6,32.7,
+Pico do Couto (INMET),Estação oficial (INMET),INMET,24,True,3.0,2.6,
+Vila Constância,Itaipava e vales,Cemaden,24,True,1.2,1.2,
+Alto da Serra,Área central (1º distrito),Cemaden,0,False,,,
+Araras,"Corrêas, Nogueira e Araras",Cemaden,24,False,,,
+Estrada do Cantagalo,Itaipava e vales,Cemaden,0,False,,,
+Itaipava,Itaipava e vales,Cemaden,24,False,,,
+Independência2,Área central (1º distrito),Cemaden,0,False,,,
+CIEP Brizolão 281,Pedro do Rio e Posse,Cemaden,24,False,,,
+Vale do Cuiabá,Itaipava e vales,Cemaden,0,False,,,
+Nogueira,"Corrêas, Nogueira e Araras",Cemaden,0,False,,,
+Morin,Área central (1º distrito),Cemaden,24,False,,,
+Pedro do Rio,Pedro do Rio e Posse,Cemaden,0,False,,,
+Estrada da Cachoeira,Itaipava e vales,Cemaden,23,False,,,
+Vale do Cuiabá2,Itaipava e vales,Cemaden,0,False,,,
+Mosela,Área central (1º distrito),Cemaden,0,False,,,
+Vila Rica,Itaipava e vales,Cemaden,24,False,,,

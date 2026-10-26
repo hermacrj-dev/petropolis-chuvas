@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Dados que o próprio código baixa (INMET e Atlas)
+dados/entrada/inmet/*
+dados/entrada/atlas/*
+!dados/entrada/inmet/.gitkeep
+!dados/entrada/atlas/.gitkeep
+
+# Os CSVs do Cemaden ficam no repositório porque não têm download automático.
+# As bases tratadas, as tabelas e as figuras também ficam, porque o painel lê delas.
+
+# Sistema e editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

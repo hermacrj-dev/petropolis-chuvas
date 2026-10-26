@@ -1,0 +1,20 @@
+﻿codigo,estacao,regiao,fonte,latitude,longitude,dias_validos,dias_acima_50mm,dias_acima_100mm,maior_chuva_dia_mm,data_maior_chuva,anos_de_dados,dias_acima_50mm_por_ano,dias_acima_100mm_por_ano
+330390612A,Independência2,Área central (1º distrito),Cemaden,-22.548,-43.209,1453,39,4,180.7,14/03/2017,4.0,9.8,1.01
+330390620A,Morin,Área central (1º distrito),Cemaden,-22.527,-43.161,1686,45,8,189.7,05/04/2025,4.6,9.75,1.73
+330390602A,Alto da Serra,Área central (1º distrito),Cemaden,-22.53,-43.171,2663,67,6,279.3,05/04/2025,7.3,9.19,0.82
+330390618A,Rua Amazonas/Quitandinha,Área central (1º distrito),Cemaden,-22.529,-43.223,2342,56,6,158.4,07/01/2022,6.4,8.73,0.94
+330390617A,Rua Araruama/Quitandinha,Área central (1º distrito),Cemaden,-22.52,-43.22,1471,26,3,180.2,07/01/2022,4.0,6.46,0.74
+330390627A,Mosela,Área central (1º distrito),Cemaden,-22.481,-43.219,1666,24,2,119.7,14/12/2016,4.6,5.26,0.44
+A610,Pico do Couto (INMET),Estação oficial (INMET),INMET,-22.46472222,-43.29138888,3291,45,3,141.0,05/04/2025,9.0,4.99,0.33
+330390606A,Estrada do Cantagalo,Itaipava e vales,Cemaden,-22.374,-43.046,888,9,0,92.4,21/02/2016,2.4,3.7,0.0
+330390626A,Vale do Cuiabá2,Itaipava e vales,Cemaden,-22.336,-43.047,661,6,2,107.1,13/01/2017,1.8,3.32,1.11
+330390611A,Itaipava,Itaipava e vales,Cemaden,-22.388,-43.132,1607,14,0,87.2,22/02/2018,4.4,3.18,0.0
+330390615A,Vale do Cuiabá,Itaipava e vales,Cemaden,-22.402,-43.047,1283,11,0,92.1,14/01/2016,3.5,3.13,0.0
+330390605A,Araras,"Corrêas, Nogueira e Araras",Cemaden,-22.427,-43.249,2565,21,1,103.5,15/01/2016,7.0,2.99,0.14
+330390623A,Pedro do Rio,Pedro do Rio e Posse,Cemaden,-22.335,-43.134,1501,9,0,70.5,02/12/2015,4.1,2.19,0.0
+330390619A,Nogueira,"Corrêas, Nogueira e Araras",Cemaden,-22.418,-43.122,1717,9,1,101.2,22/02/2018,4.7,1.91,0.21
+330390628A,Vila Rica,Itaipava e vales,Cemaden,-22.349,-43.132,1789,9,1,115.2,16/01/2016,4.9,1.84,0.2
+330390614A,CIEP Brizolão137,"Corrêas, Nogueira e Araras",Cemaden,-22.454,-43.143,2627,12,0,95.5,16/01/2016,7.2,1.67,0.0
+330390624A,Estrada da Cachoeira,Itaipava e vales,Cemaden,-22.353,-43.095,3075,13,0,80.6,12/11/2016,8.4,1.54,0.0
+330390609A,Vila Constância,Itaipava e vales,Cemaden,-22.401,-43.097,2381,8,0,93.2,22/02/2018,6.5,1.23,0.0
+330390613A,CIEP Brizolão 281,Pedro do Rio e Posse,Cemaden,-22.258,-43.076,2538,7,1,137.9,08/03/2018,6.9,1.01,0.14

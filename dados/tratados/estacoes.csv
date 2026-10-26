@@ -1,0 +1,20 @@
+﻿codigo,estacao,regiao,latitude,longitude,fonte,dias_validos,primeiro_registro,ultimo_registro,pct_dias_validos
+330390602A,Alto da Serra,Área central (1º distrito),-22.53,-43.171,Cemaden,2663,2013-08-17,2025-12-31,60.8
+330390605A,Araras,"Corrêas, Nogueira e Araras",-22.427,-43.249,Cemaden,2565,2013-09-07,2025-12-31,58.5
+330390606A,Estrada do Cantagalo,Itaipava e vales,-22.374,-43.046,Cemaden,888,2013-09-06,2022-02-12,20.3
+330390609A,Vila Constância,Itaipava e vales,-22.401,-43.097,Cemaden,2381,2013-09-06,2025-12-31,54.3
+330390611A,Itaipava,Itaipava e vales,-22.388,-43.132,Cemaden,1607,2013-10-22,2025-03-12,36.7
+330390612A,Independência2,Área central (1º distrito),-22.548,-43.209,Cemaden,1453,2013-09-07,2025-12-31,33.2
+330390613A,CIEP Brizolão 281,Pedro do Rio e Posse,-22.258,-43.076,Cemaden,2538,2013-09-06,2025-03-16,57.9
+330390614A,CIEP Brizolão137,"Corrêas, Nogueira e Araras",-22.454,-43.143,Cemaden,2627,2013-09-18,2025-12-31,59.9
+330390615A,Vale do Cuiabá,Itaipava e vales,-22.402,-43.047,Cemaden,1283,2013-09-05,2025-12-31,29.3
+330390617A,Rua Araruama/Quitandinha,Área central (1º distrito),-22.52,-43.22,Cemaden,1471,2013-09-18,2025-12-31,33.6
+330390618A,Rua Amazonas/Quitandinha,Área central (1º distrito),-22.529,-43.223,Cemaden,2342,2013-09-07,2025-01-05,53.4
+330390619A,Nogueira,"Corrêas, Nogueira e Araras",-22.418,-43.122,Cemaden,1717,2013-09-06,2025-12-31,39.2
+330390620A,Morin,Área central (1º distrito),-22.527,-43.161,Cemaden,1686,2013-09-18,2025-12-31,38.5
+330390623A,Pedro do Rio,Pedro do Rio e Posse,-22.335,-43.134,Cemaden,1501,2013-09-06,2025-12-31,34.2
+330390624A,Estrada da Cachoeira,Itaipava e vales,-22.353,-43.095,Cemaden,3075,2013-09-07,2025-12-31,70.2
+330390626A,Vale do Cuiabá2,Itaipava e vales,-22.336,-43.047,Cemaden,661,2013-09-07,2025-04-27,15.1
+330390627A,Mosela,Área central (1º distrito),-22.481,-43.219,Cemaden,1666,2013-07-25,2025-12-31,38.0
+330390628A,Vila Rica,Itaipava e vales,-22.349,-43.132,Cemaden,1789,2013-09-24,2025-12-20,40.8
+A610,Pico do Couto (INMET),Estação oficial (INMET),-22.46472222,-43.29138888,INMET,3291,2013-12-31,2025-12-31,75.1

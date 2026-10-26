@@ -1,0 +1,8 @@
+﻿data_evento,tipo,obitos,desalojados,desabrigados,central_24h_mm,estacao_do_maximo,estacoes_centrais_com_dado,central_72h_mm,inmet_24h_mm,inmet_72h_mm
+2015-02-08,Enxurradas,0,0,0,109.9,Independência2,6,117.9,,
+2016-01-15,Enxurradas,0,0,0,131.1,Alto da Serra,4,189.7,,
+2016-11-14,Chuvas Intensas,0,0,0,173.6,Alto da Serra,5,251.2,,
+2018-03-03,Chuvas Intensas + Enxurradas,2,193,0,63.7,Alto da Serra,2,77.7,34.0,36.4
+2022-01-07,Chuvas Intensas,0,227,12,199.4,Rua Araruama/Quitandinha,2,261.5,84.8,146.6
+2022-02-15,Chuvas Intensas,78,0,450,134.1,Rua Araruama/Quitandinha,2,149.9,3.0,14.0
+2022-03-20,Chuvas Intensas,5,240,1167,,,0,,117.6,118.0

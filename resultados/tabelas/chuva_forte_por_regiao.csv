@@ -1,0 +1,6 @@
+﻿regiao,estacoes,dias_acima_50mm_por_ano,dias_acima_100mm_por_ano
+Área central (1º distrito),6,8.2,0.95
+Estação oficial (INMET),1,4.99,0.33
+Itaipava e vales,7,2.56,0.19
+"Corrêas, Nogueira e Araras",3,2.19,0.12
+Pedro do Rio e Posse,2,1.6,0.07
